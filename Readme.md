@@ -22,6 +22,10 @@
 <img src="./img/screenshot/2.png" />
 <br>
 
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
 ## 📌 About
 > **Windows 11 Themes** adalah sebuah website dimana pengguna dapat meelihat tampilan tema Windows 11. 
 <br>
@@ -60,7 +64,7 @@
 - <code>git clone ↆↆ </code>
   
   ```bash
-  git clone 
+  git clone https://github.com/bagussatoto/Windows-11.git
   ``` 
   
 - <code>cd windows 11</code>

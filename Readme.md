@@ -77,7 +77,7 @@
 
 ## 💻 Testing Demo
 
-- [Demo Windows 11](https://www.audiovisual.com/windows-11/)
+- [Demo Windows 11](https://windows-11-bagus.vercel.app/)
 
 
 <!-- Garis Lurus -->

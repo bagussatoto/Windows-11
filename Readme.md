@@ -5,6 +5,13 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
+<img src="./img/screenshot/4.png" alt="ss" width="1000"/>
+<br>
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
 <img src="./img/screenshot/1.png" />
 <br>
 
@@ -59,7 +66,6 @@
 <!-- End -->
 
 ## 🔗 Cara Install
-<br>
 
 - <code>git clone ↆↆ </code>
   
